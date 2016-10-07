@@ -1,4 +1,4 @@
-(defproject clj-log "0.1.0"
+(defproject com.tokenshift/log "0.1.0"
   :description "Structured logging to STDOUT for 12-factor apps."
   :url "https://github.com/tokenshift/clj-log"
   :license {:name "Eclipse Public License"
